@@ -1,0 +1,21 @@
+[{
+  "file": "C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo05\\main.cpp -o C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo04\\main.cpp -o C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jaime\\Desktop\\Desktop\\Eejemplo03\\main.cpp",
+  "directory": "C:\\Users\\jaime\\Desktop\\Desktop\\Eejemplo03",
+  "command": "clang++ -c C:\\Users\\jaime\\Desktop\\Desktop\\Eejemplo03\\main.cpp -o C:\\Users\\jaime\\Desktop\\Desktop\\Eejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo02\\main.cpp -o C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo01",
+  "command": "clang++ -c C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo01\\main.cpp -o C:\\Users\\jaime\\Desktop\\Desktop\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
